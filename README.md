@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonathan Kyule 👋
 
 # 💫 About Me:
-🔭 I’m currently working on my skills in C<br>👯 🌱 I’m currently learning C basics<br>
+🔭 I am a newbie in the tech world, eager to get the skills <br> I’m currently working on my skills in C<br>👯 🌱 I’m currently learning C basics<br>
 
 
 ## 🌐 Socials:

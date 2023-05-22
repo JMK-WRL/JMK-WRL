@@ -12,9 +12,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JMK-WRL&theme=gotham&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JMK-WRL&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=JMK-WRL&icon=2&color=1)](https://visitcount.itsvg.in)
 

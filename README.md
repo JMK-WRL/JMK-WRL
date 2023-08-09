@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonathan Kyule 👋
 
 # 💫 About Me:
-- I am a newbie in the tech world, eager to get the skills. - <br> Student at ALX program
+- I am a newbie in the tech world, eager to get the skills. <br> - Student at ALX program
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//jonathan-kyule-173001199) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kyulej7) 

@@ -20,8 +20,6 @@ I'm constantly learning and expanding my skill set. Some of the technologies and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-Feel free to reach out!
-
 ## 📫 How to Reach Me
 
 You can connect with me on:
@@ -33,6 +31,12 @@ You can connect with me on:
 
 Feel free to explore!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=JMK-WRL&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JMK-WRL&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JMK-WRL&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=JMK-WRL&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 Thanks for visiting my profile! 😄
